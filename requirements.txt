@@ -1,0 +1,21 @@
+
+# --- Core ML & CV ---
+tensorflow>=2.10.0
+opencv-python-headless
+opencv-contrib-python
+mediapipe
+scikit-learn
+pandas
+numpy
+matplotlib
+
+# --- Deployment ---
+streamlit
+flask
+gunicorn
+
+# --- MLOps & Utilities ---
+onnx
+onnxruntime
+tf2onnx
+tqdm
